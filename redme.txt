@@ -1,0 +1,14 @@
+`1   https://www.youtube.com/watch?v=ltMSrSis9ww&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW
+2   https://www.youtube.com/watch?v=TIgw_r0LztY&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=2
+3   https://www.youtube.com/watch?v=WtULZGzjxwk&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=3
+4   https://www.youtube.com/watch?v=8ofM1i8sAok&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=4
+5   https://www.youtube.com/watch?v=UM2Rsn1Xetw&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=5
+6   https://www.youtube.com/watch?v=BP3in1OLLq0&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=6
+7   https://www.youtube.com/watch?v=aHDWra0X7vI&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=7
+8   https://www.youtube.com/watch?v=rc5Iauhat8s&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=8
+9   https://www.youtube.com/watch?v=gkkVL1Gl5jE&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=9
+10  https://www.youtube.com/watch?v=mTc0TcU4QKY&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=10
+11  https://www.youtube.com/watch?v=DUg2xAy0T-Y&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=11
+
+12  https://www.youtube.com/watch?v=gzvORwR8pZs&list=PLoq3Accf02PVdUqjqPdWMG4HbEZXlhICW&index=12        hosting
+
